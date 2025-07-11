@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi I'm sonneko!
 
-<!--
-**sonneko/sonneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm in a high school at Japan. I'm just a beginner in programming or other subject in IT.
 
-Here are some ideas to get you started:
+## I'm interested in...
+- Modern web development
+- Low layer knowledges such as OS and VM.
+- Game development without Unity.
+- Optimized database design with a focus on estimation
+- AI development and theory
+- Compiler or interpreter development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+or else..
+
+--- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonneko&layout=compact
+)](https://github.com/anuraghazra/github-readme-stats)
