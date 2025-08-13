@@ -1,6 +1,6 @@
 ## Hi I'm sonneko!
 
-I'm in a high school at Japan. I'm just a beginner in programming or other subject in IT.
+I'm in a high school at Japan. I'm just a beginner in programming or other subject in IT but very interested in it.
 
 ## I'm interested in...
 - Modern web development
@@ -12,7 +12,16 @@ I'm in a high school at Japan. I'm just a beginner in programming or other subje
 
 or else..
 
+## Current develop
+- sonneko-arch, my original archtecture and ecosystems for learning low layer
+- website by Next.js SSG for my high school festival "SF"
+
+## Contact
+Don't hesitate to contact me. Please contact me from [sonneko repository's issues](https://github.com/sonneko/issues)
+
 --- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonneko&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/sonneko)
