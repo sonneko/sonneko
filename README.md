@@ -17,7 +17,7 @@ or else..
 - website by Next.js SSG for my high school festival "SF"
 
 ## Contact
-Don't hesitate to contact me. Please contact me from [sonneko repository's issues](https://github.com/sonneko/sonneko/issue)
+Don't hesitate to contact me. Please contact me from [sonneko repository's issues](https://github.com/sonneko/sonneko/issues)
 
 --- 
 
