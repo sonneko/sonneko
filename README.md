@@ -4,7 +4,7 @@ I'm in a high school at Japan. I'm just a beginner in programming or other subje
 
 ## I'm interested in...
 - Modern web development
-- Low layer knowledges such as OS and VM.
+- Low layer knowledges such as OS, VM, network.
 - Game development without Unity.
 - Optimized database design with a focus on estimation
 - AI development and theory
