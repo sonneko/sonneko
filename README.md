@@ -17,7 +17,11 @@ or else..
 - website by Next.js SSG for my high school festival "SF"
 
 ## Contact
-Don't hesitate to contact me. Please contact me from [sonneko repository's issues](https://github.com/sonneko/sonneko/issues)
+Don't hesitate to contact me. Please contact me by creating a issue on [sonneko repository's issues](https://github.com/sonneko/sonneko/issues)
+
+or
+
+DM to my [X account](https://x.com/_sonneko)
 
 --- 
 
