@@ -28,4 +28,4 @@ DM to my [X account](https://x.com/_sonneko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonneko&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Developer Score](https://github-stats-eta-two.vercel.app/api/stats/sonneko)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonneko)](https://github.com/anuraghazra/github-readme-stats)
