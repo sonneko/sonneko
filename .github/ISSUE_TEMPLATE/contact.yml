@@ -1,0 +1,13 @@
+name: Contact Sonneko
+description: Please use it to contact me.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **I would love to hear from you!**
+
+  - type: textarea
+    attributes:
+      label: Message
+    validations:
+      required: true
