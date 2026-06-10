@@ -1,6 +1,6 @@
 ## Hi I'm sonneko!
 
-I'm in a high school at Japan. I'm just a beginner in programming or other subject in IT but very interested in it.
+I'm in a high school at Japan. I'm very interested in programming or other sunjects around IT.
 
 ## I'm interested in...
 - Modern web development
@@ -9,12 +9,12 @@ I'm in a high school at Japan. I'm just a beginner in programming or other subje
 - Optimized database design with a focus on estimation
 - AI development and theory
 - Compiler or interpreter development
+- Quantum Computer
 
 or else..
 
 ## Current develop
-- sonneko-arch, my original archtecture and ecosystems for learning low layer
-- website by Next.js SSG for my high school festival "SF"
+- Hydent Language: blending Rust, TypeScript, Go good design
 
 ## Contact
 Don't hesitate to contact me. Please contact me by creating a issue on [sonneko repository's issues](https://github.com/sonneko/sonneko/issues)
