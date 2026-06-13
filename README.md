@@ -1,6 +1,6 @@
 ## Hi I'm sonneko!
 
-I'm in a high school at Japan. I'm very interested in programming or other sunjects around IT.
+I'm in a high school at Japan. I'm very interested in programming or other subjects around IT.
 
 ## I'm interested in...
 - Modern web development
